@@ -8,4 +8,4 @@
  |Req-4| Rimozione,spostamentodipunti|2|1.0|Bonus|
  |Req-5| Il “fiocco di neve” finale va generato su input dell’utente con un tasto “Genera”|1|1.0|...|
  |Req-6| La generazione avviene in tempo reale|2|1.0|Bonus|
- |Req-7| L’applicativo deve permettere di salvare il fiocco di neve generato come immagine raster (con dimensioni a scelta dell’utente) e vettoriale|1|1.0|...|
+ |Req-7| L’applicativo deve permettere di salvare il fiocco di neve come immagine raster e vettoriale|1|1.0|PNG, SVG|
