@@ -7,7 +7,7 @@
  |Req-3| Donwload dell'applicativo|1|1.0|...|
  |Req-4| Intarfaccia grafica|1|1.0|...|
  |Req-5| Punti di “taglio” sono da inserire con il mouse con semplici click|1|1.0|...|
- |Req-6| L’inserimento del percorso deve avere queste funzioni: aggiunta di punti, reset totale|1|1.0|...|
+ |Req-6| Avere 2 funzioni: aggiunta di punti, reset totale|1|1.0|...|
  |Req-7| Rimozione,spostamento di punti|2|1.0|Bonus|
  |Req-8| Il “fiocco di neve” finale va generato su input dell’utente con un tasto “Genera”|1|1.0|...|
  |Req-9| La generazione avviene in tempo reale|2|1.0|Bonus|
