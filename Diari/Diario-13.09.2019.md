@@ -1,5 +1,5 @@
 # Generatori di fiocchi di neve | Diario di lavoro
-##### Kushtrim Ruhsi
+##### Kushtrim Rushi
 ### SAMT, 13.09.2019
 
 ## Lavori svolti
