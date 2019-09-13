@@ -1,7 +1,7 @@
 # Lista Requisiti
 
  |**ID**|**Nome**|**Priorità**|**Vers**|**Note**|
- |------|------------|--------|----|------|
+ |-----------|------------|--------|----|------|
  |Req-1| L'applicativo può essere scritto in Java o JavaScript|1|1.0|Java|
  |Req-2| Creazione di un piccolo sito adibito alla descrizione|1|1.0|...|
  |Req-3| Donwload dell'applicativo|1|1.0|...|
