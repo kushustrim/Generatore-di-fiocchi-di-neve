@@ -1,6 +1,6 @@
 # Lista Requisiti
 
- |**ID**	|**Nome**			|**Priorità**|**Vers**|**Note**  |
+ |**ID**|**Nome**|**Priorità**|**Vers**|**Note**|
  |----|------------|--------|----|------|
  |Req-1| L'applicativo può essere scritto in Java o JavaScript|1|1.0|Java|
  |Req-2| Punti di “taglio” sono da inserire con il mouse con semplici click|1|1.0|...|
