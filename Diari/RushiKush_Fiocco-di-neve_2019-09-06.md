@@ -5,12 +5,12 @@
 ## Lavori svolti
 
 
-|Orario        |Lavoro svolto                 |
-|--------------|------------------------------|
-|14:00 - 14:30 |Fatta la virtuale|
-|14:30 - 15:00 |Impostato abiente di rete|
-|15:15 - 16:00 |Impostato proxy|
-|16:00 - 16:30 |Fatto read me e il diario|
+|Orario        | Lavoro svolto                 |
+|--------------|-------------------------------|
+|14:00 - 14:30 | Fatta la virtuale             |
+|14:30 - 15:00 | Impostato abiente di rete     |
+|15:15 - 16:00 | Impostato proxy               |
+|16:00 - 16:30 | Fatto read me e il diario     |
 
 ##  Problemi riscontrati e soluzioni adottate
 
